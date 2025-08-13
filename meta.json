@@ -1,0 +1,17 @@
+{
+    "results": {
+        "RandomForest": {
+            "accuracy": 0.92,
+            "confusion_matrix": [
+                [
+                    51,
+                    5
+                ],
+                [
+                    3,
+                    41
+                ]
+            ]
+        }
+    }
+}
