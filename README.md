@@ -42,4 +42,4 @@ The app allows users to explore data, visualize features, and predict diabetes b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+ https://github.com/Imalshanawarathna/Diabetes_Streamlit_App11.git
