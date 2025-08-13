@@ -41,5 +41,4 @@ The app allows users to explore data, visualize features, and predict diabetes b
 ## How to Run Locally
 
 1. Clone the repository:
-   ```bash
- https://github.com/Imalshanawarathna/Diabetes_Streamlit_App11.git
+  https://github.com/Imalshanawarathna/Diabetes_Streamlit_App11.git
